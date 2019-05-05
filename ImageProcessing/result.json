@@ -1,0 +1,129 @@
+{
+    "id": "84675cf4-a580-4bb0-9f84-38596508716d",
+    "project": "27eda967-91e9-4e4f-97f0-25d528ba6aa5",
+    "iteration": "7b661ea6-a52a-4d36-ae97-c138bd92cf2f",
+    "created": "2019-04-16T12:40:11.190Z",
+    "predictions": [
+        {
+            "probability": 0.0183262825,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.8722191,
+                "top": 0.488561153,
+                "width": 0.03402084,
+                "height": 0.150123358
+            }
+        },
+        {
+            "probability": 0.09201248,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.402231574,
+                "top": 0.191677362,
+                "width": 0.287712216,
+                "height": 0.632686138
+            }
+        },
+        {
+            "probability": 0.7083993,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.356274128,
+                "top": 0.1750393,
+                "width": 0.391677976,
+                "height": 0.340446234
+            }
+        },
+        {
+            "probability": 0.04758545,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.112352878,
+                "top": 0.1746403,
+                "width": 0.584481359,
+                "height": 0.503674865
+            }
+        },
+        {
+            "probability": 0.0149671081,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.5542207,
+                "top": 0.197025791,
+                "width": 0.364021361,
+                "height": 0.446908832
+            }
+        },
+        {
+            "probability": 0.102801941,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.1563873,
+                "top": 0.325440437,
+                "width": 0.405098,
+                "height": 0.470579833
+            }
+        },
+        {
+            "probability": 0.5084229,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.315387726,
+                "top": 0.279381961,
+                "width": 0.664312363,
+                "height": 0.57793653
+            }
+        },
+        {
+            "probability": 0.0120805772,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.214853525,
+                "top": 0.446304858,
+                "width": 0.580121756,
+                "height": 0.370889366
+            }
+        },
+        {
+            "probability": 0.0948720351,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.551114261,
+                "top": 0.444832683,
+                "width": 0.379275024,
+                "height": 0.371202
+            }
+        },
+        {
+            "probability": 0.0129431263,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.2778022,
+                "top": 0.727114558,
+                "width": 0.548272,
+                "height": 0.1551547
+            }
+        },
+        {
+            "probability": 0.0141871311,
+            "tagId": "5998990f-87ed-43f0-ba59-ac2fc2defeed",
+            "tagName": "cracked_screen",
+            "boundingBox": {
+                "left": 0.3222719,
+                "top": 0.761327744,
+                "width": 0.554121137,
+                "height": 0.221267819
+            }
+        }
+    ]
+}
